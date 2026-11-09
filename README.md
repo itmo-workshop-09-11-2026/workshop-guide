@@ -20,6 +20,7 @@
 | Go | [shop-go](https://github.com/itmo-workshop-09-11-2026/shop-go) | Go 1.24+ |
 | Java | [shop-java](https://github.com/itmo-workshop-09-11-2026/shop-java) | JDK 21+ |
 | C# | [shop-csharp](https://github.com/itmo-workshop-09-11-2026/shop-csharp) | .NET SDK 10 |
+| Python | [shop-python](https://github.com/itmo-workshop-09-11-2026/shop-python) | Python 3.12+ |
 
 В каждом шаблоне есть запуск без Docker, команда упаковки ZIP и необязательная публикация через GitHub Actions. Готовой реализации магазина нет.
 

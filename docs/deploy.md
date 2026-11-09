@@ -20,7 +20,7 @@
 
 ## Путь 2: GitHub Pages
 
-**Если вы взяли наш шаблон Go, Java или C#:** в нём уже есть workflow `Publish site`. В Settings → Pages выберите Source: GitHub Actions, затем Actions → Publish site → Run workflow. Он публикует `site/`; копировать файлы в `docs/` не требуется. Для обновления сделайте push и повторно запустите workflow. Подробности и включение автодеплоя — в README шаблона.
+**Если вы взяли наш шаблон Go, Java, C# или Python:** в нём уже есть workflow `Publish site`. В Settings → Pages выберите Source: GitHub Actions, затем Actions → Publish site → Run workflow. Он публикует `site/`; копировать файлы в `docs/` не требуется. Для обновления сделайте push и повторно запустите workflow. Подробности и включение автодеплоя — в README шаблона.
 
 Следующие шаги нужны для проекта **без готового workflow**. Выберите один способ настройки Pages: Actions либо публикация из ветки.
 
